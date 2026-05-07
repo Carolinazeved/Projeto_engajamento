@@ -1,11 +1,19 @@
 # 📊 Análise de Engajamento em Redes Sociais
-![Banner](imagens/Banner.mp4)
+
+<p align="center">
+  <img src="img/banner.gif"/>
+</p>
+
+<p align="center">
 Projeto desenvolvido com Python para análise de métricas de engajamento em redes sociais.
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+</p>
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge"/>
+</p>
 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge)
 ---
 
 ## 🚀 Objetivo
@@ -75,6 +83,12 @@ python analise.py
 
 ---
 
-## 👩‍💻 Sobre mim
+## 📌 Status do Projeto
 
-Estudante de Tecnologia com foco em Ciência de Dados, desenvolvendo projetos voltados para análise de dados, automação e visualização de informações.
+✅ Concluído  
+📊 Projeto de estudo para portfólio  
+🚀 Em evolução
+
+## 👩‍💻 Sobre mim
+Profissional em transição para a área de Tecnologia, com foco em Ciência de Dados e desenvolvimento de soluções analíticas utilizando Python.
+Este projeto faz parte da minha jornada prática de aprendizado em análise de dados, automação e visualização de informações.
