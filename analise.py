@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Carregar dados
-df = pd.read_csv('dados.csv')
+df = pd.read_csv('dados/dados.csv')
 
 # Taxa de engajamento
 df['engajamento'] = (
@@ -19,6 +19,8 @@ resultado.plot(kind='bar')
 
 plt.title('Engajamento por Tipo de Post')
 plt.ylabel('Taxa de Engajamento')
+plt.savefig('img/Figure_1.png')
 plt.show()
+
 
 print(resultado)
