@@ -1,7 +1,11 @@
 # 📊 Análise de Engajamento em Redes Sociais
-
+![Banner](imagens/Banner.mp4)
 Projeto desenvolvido com Python para análise de métricas de engajamento em redes sociais.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge)
 ---
 
 ## 🚀 Objetivo
